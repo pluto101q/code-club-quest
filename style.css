@@ -4,7 +4,7 @@
     --highlight: #92EB78; /*this is you underlines, borders, etc. it can be funky too*/
     --text: #002D38; /*main body text, links, etc. needs good contrast with neutral or dark (depending on your theme)*/
     --titles: #26966B; /*good contrast with neutral or dark, used for all your headings*/
-    --light: #F0FEF2; /*often light, is the div colour*/
+    --light: #f0fafe; /*often light, is the div colour*/
     --dark: #002D38; /*a contrast to light, like the dark version of it, for things like hover or dark mode*/
 }
 *{
