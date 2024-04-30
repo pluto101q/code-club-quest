@@ -1,6 +1,6 @@
 :root{
-    --background: #1174ED; /*your strangest colour with bad contrast as text*/
-    --main: #176B0C; /*this is behind your divs, it can be anything too*/
+    --background: #176B0C; /*your strangest colour with bad contrast as text*/
+    --main: #1174ED; /*this is behind your divs, it can be anything too*/
     --highlight: #92EB78; /*this is you underlines, borders, etc. it can be funky too*/
     --text: #002D38; /*main body text, links, etc. needs good contrast with neutral or dark (depending on your theme)*/
     --titles: #26966B; /*good contrast with neutral or dark, used for all your headings*/
