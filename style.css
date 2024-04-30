@@ -28,7 +28,7 @@ header,main,footer{
 }
 div{
     padding: 10px;
-  margin: 20px;
+    margin: 20px;
     color: var(--text);
     clear:both;
     background-color: var(--light);
@@ -58,7 +58,6 @@ h6{
 }
 p,li,a,td,code,ul,ol{
     font-size: 15px;
-    /*color: rgb(123,49,180);*/
     color: var(--text);
 }
 .heading{
